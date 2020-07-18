@@ -1,0 +1,33 @@
+body{
+  background-color:grey;
+  text-align:center;
+}
+
+h1 {
+  font-family: arial;
+  font-size: 40px;
+}
+h5{
+  color:black;
+  font-family:arial;
+  font-size:20px;
+}
+
+#image{
+  height:300px;
+  max-width:100%;
+  
+}
+#img-caption{
+  font-family:helvetica;
+}
+#tribute-info{
+  font-family: helvetica;
+  font-size:20px;
+  
+}
+
+#tribute-link{
+  font-family:helvetica;
+  font-size: 20px;
+}
